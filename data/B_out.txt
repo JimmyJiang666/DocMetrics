@@ -1,0 +1,38 @@
+Income Statement
+
+- Revenue: The company's revenue decreased by 8.5% in FYE 2022 compared to FYE 2021. Year-to-date revenue for 2023 is lagging behind 2022 by 15%. TTM revenue shows a 10% decline, indicating ongoing challenges.
+  - Reason: Suggests lower demand for products or services. Detailed market analysis needed to understand the decline.
+- Gross Profit: Declined from $138M in FY 2021 to $114M in FY 2022. TTM gross profit stands at $105M.
+  - Reason: Despite stable gross margin, reduced revenue impacts gross profit. Further analysis of cost components needed.
+- Operating Expenses: Decreased from $80M in FY 2021 to $76M in FY 2022. TTM shows $78M in operating expenses.
+  - Reason: Marginal increase in TTM indicates potential cost pressures or inefficiencies. Further breakdown required.
+- Net Operating Profit (NOPAT): Declined by 26% in FY 2022 compared to FY 2021. TTM shows further decline.
+  - Reason: Combination of decreased revenue and marginally higher operating expenses.
+- Adjusted EBITDA: Mirrored the NOPAT trend, declining in FY 2022 and TTM.
+  - Reason: Decline attributed to revenue reduction and increased operating expenses.
+- Net Income: Decreased from $36M in FY 2021 to $28M in FY 2022. TTM shows $25M.
+  - Reason: Reduced profitability due to declining revenue and stable cost base.
+
+Balance Sheet
+
+- Working Capital: Decreased in FY 2022 compared to FY 2021, and further decline in TTM.
+  - Reason: Response to declining revenue, with changes in inventory and receivables.
+- Total Senior Debt: Reduced significantly in FY 2022. No senior debt in TTM.
+  - Reason: Focus on deleveraging due to lower profitability. Detailed debt strategy analysis required.
+- Tangible Net Worth: Increased slightly in FY 2022 compared to FY 2021. Further increase in TTM.
+  - Reason: Likely due to retained earnings and limited dividend distribution.
+- Total Liabilities: Declined in FY 2022 and TTM due to debt repayment.
+  - Reason: Primarily driven by senior debt repayment.
+- Leverage: Reduced from 2.0x in FY 2021 to 1.2x in FY 2022 and 0.9x in TTM.
+  - Reason: Significant debt repayment and stable tangible net worth.
+
+Cash Flow
+
+- Net Cash Flow from Operations (NCAO): Positive in FY 2022 after negative cash flow in prior years. Increased in TTM.
+  - Reason: Improved working capital management and operational efficiency.
+- Free Cash Flow (FCF): Significant in FY 2022 and TTM, indicating strong cash generation.
+  - Reason: Driven by positive operating cash flow and controlled capital expenditures.
+- Cash and Equivalents: Increased significantly in TTM.
+  - Reason: Due to strong operating cash flow and cash conservation strategy.
+- Dividends: Declined in TTM compared to FY 2022.
+  - Reason: Company focusing on conserving cash and deleveraging.

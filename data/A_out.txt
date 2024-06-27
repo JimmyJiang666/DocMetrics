@@ -1,0 +1,65 @@
+I. Income Statement 
+
+Revenue: The company's revenue declined significantly by 11.1% in FYE 2022 compared to FYE 2021. Year-to-date revenue for 2023 continues to lag behind 2022, with a decline of 40% from YTD 2022. The TTM revenue shows a decline of 29.7% compared to the previous year, suggesting a sustained downward trend. 
+
+Reason: This suggests a decrease in demand for the company's products or services. Further investigation into the specific market conditions and competitive pressures is required to fully understand the reasons for this decline. 
+
+Gross Profit: The gross profit has declined consistently over the past three years, from 54,749 in FYE 2020 to 44,287 in FYE 2022. The trend has continued into 2023, with TTM gross profit of $41,376. 
+
+Reason: While the gross profit margin shows a slight increase in TTM compared to FY 2022, it indicates potential pressure on pricing or increased costs. Further analysis of cost of goods sold is required to identify the primary driver of the decline. 
+
+Operating Expenses: The company has experienced an increase in operating expenses in the past three years, although there was a slight decline in FYE 2022 compared to FYE 2021. Operating expenses in TTM are similar to FYE 2021 levels. 
+
+Reason: The operating expense ratio has significantly increased in TTM compared to FYE 2022, reaching 0.10. This suggests increased cost pressure or inefficiency within the company's operations. Further analysis of individual expense categories is needed to understand the drivers of this change. 
+
+Net Operating Profit (NOPAT): The company's net operating profit has significantly declined, with a 55% decrease in FYE 2022 compared to FYE 2021, and continues to decline in TTM. 
+
+Reason: The decline in NOPAT is driven by the combined impact of decreasing revenue and increasing operating expenses. 
+
+Adjusted EBITDA: Adjusted EBITDA has mirrored the trend of NOPAT, demonstrating a significant decline in FYE 2022 and continuing in TTM. 
+
+Reason: The decline in adjusted EBITDA is primarily attributed to the decrease in revenue and the rise in operating expenses, as discussed above. 
+
+Net Income: Net income follows the same declining trend as NOPAT and adjusted EBITDA, exhibiting a steep drop in FYE 2022. 
+
+Reason: The decline in net income is directly related to the reduced profitability of the company's operations, reflected in the declining NOPAT and adjusted EBITDA. 
+
+II. Balance Sheet 
+
+Working Capital: Working capital has decreased slightly in FYE 2022 compared to FYE 2021. TTM shows a decrease compared to FYE 2022. 
+
+Reason: The change in working capital is likely a result of the company's response to the declining revenue. It is important to investigate changes in specific components of working capital such as inventory, accounts receivable, and accounts payable. 
+
+Total Senior Debt: The company reduced its total senior debt significantly in FYE 2022 compared to FYE 2021. In TTM, there is no senior debt outstanding. 
+
+Reason: This indicates a focus on deleveraging, potentially due to the decrease in profitability and the need to improve the company's financial position. Further investigation into the specifics of debt repayments and the company's overall debt strategy is required. 
+
+Tangible Net Worth: Tangible net worth has increased slightly in FYE 2022 compared to FYE 2021. TTM also shows a slight increase compared to FYE 2022. 
+
+Reason: The increase in tangible net worth is likely due to the company's retained earnings, as it has experienced a decrease in net income, indicating that it may be conserving cash and not distributing significant dividends. 
+
+Total Liabilities: Total liabilities have declined significantly in FYE 2022 compared to FYE 2021, and are further reduced in TTM, reflecting the reduction in debt. 
+
+Reason: The reduction in total liabilities is mainly due to the repayment of senior debt, as seen in the balance sheet analysis. 
+
+Leverage: The company's leverage, as measured by the Total Liabilities/Tangible Net Worth ratio, has declined significantly from 2.3 in FYE 2021 to 1.09 in FYE 2022 and 0.62 in TTM. 
+
+Reason: This significant decline in leverage is primarily due to the repayment of senior debt and the relatively stable tangible net worth. 
+
+III. Cash Flow 
+
+Net Cash Flow from Operations (NCAO): The company generated a significant positive cash flow from operations in FYE 2022, after two consecutive years of negative cash flow. This trend continues in TTM with an increased positive cash flow. 
+
+Reason: The improvement in NCAO is likely due to the company's efforts to manage its working capital, improve efficiency in its operations, and potentially due to a change in accounting policies or the timing of cash receipts and payments. Further analysis of the statement of cash flows and the company's operational changes is needed to confirm this conclusion. 
+
+Free Cash Flow (FCF): The company generated significant free cash flow in FYE 2022 and the TTM, demonstrating its ability to generate cash and fund its operations, invest in growth, and potentially repay debt. 
+
+Reason: The increase in FCF is driven by the improved cash flow from operations and relatively low capital expenditures. 
+
+Cash and Equivalents: The company's cash and equivalents increased significantly in TTM. 
+
+Reason: This increase is likely due to the strong cash flow from operations and the company's decision to accumulate cash. 
+
+Dividends: Dividends have declined significantly in TTM compared to FYE 2022. 
+
+Reason: This is likely a result of the company's decision to conserve cash and focus on deleveraging. 
