@@ -81,8 +81,3 @@ if __name__ == "__main__":
     scores = pipeline.run()
     print(scores)
 ```
-
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
