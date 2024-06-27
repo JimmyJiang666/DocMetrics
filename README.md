@@ -18,7 +18,8 @@ You can install these libraries using pip:
 pip install rouge-score nltk bert-score
 ```
 
-The parent folder is also needed.
+The parent folder is also needed. The PARENT function is implemented using the [KaijuML/parent](https://github.com/KaijuML/parent) repository.
+
 
 ## Available Metrics
 
