@@ -15,7 +15,7 @@ To run this code, you will need the following Python libraries:
 
 You can install these libraries using pip:
 ```sh
-pip install rouge-score nltk bert-score
+pip install rouge-score nltk bert_score
 ```
 
 The parent folder is also needed. The PARENT function is implemented using the [KaijuML/parent](https://github.com/KaijuML/parent) repository.
